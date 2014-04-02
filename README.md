@@ -15,3 +15,5 @@ This README file is a great place to do a couple of things.
 ## Our Design Ethos
 
 Use this area to describe how your company thinks about design.
+
+Design happens from the ground up.
